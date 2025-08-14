@@ -1,7 +1,6 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // File: src/pages/MoodStep.tsx
 // ─────────────────────────────────────────────────────────────────────────────
-import React from "react";
 import { MOODS, type Mood } from "../types";
 
 export default function MoodStep({ mood, setMood, onBack, onNext }: { mood: Mood | null; setMood: (m: Mood) => void; onBack: () => void; onNext: () => void; }){
