@@ -1,8 +1,6 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // File: src/components/Logo.tsx
 // ─────────────────────────────────────────────────────────────────────────────
-import React from "react";
-
 export default function Logo({ width = 168 }: { width?: number }) {
   // Bubble uses theme tokens:
   //  - fill: var(--card) so it looks like a chat bubble
