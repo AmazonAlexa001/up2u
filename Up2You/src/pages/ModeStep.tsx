@@ -1,7 +1,6 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // File: src/pages/ModeStep.tsx
 // ─────────────────────────────────────────────────────────────────────────────
-import React from "react";
 import type { Mode } from "../utils/types-extra";
 
 export default function ModeStep({ mode, setMode, onNext }: { mode: Mode | null; setMode: (m: Mode) => void; onNext: () => void; }){
