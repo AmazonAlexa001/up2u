@@ -1,7 +1,6 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // File: src/pages/ResultStep.tsx
 // ─────────────────────────────────────────────────────────────────────────────
-import React from "react";
 import type { Mood } from "../types";
 import type { Mode } from "../utils/types-extra";
 
