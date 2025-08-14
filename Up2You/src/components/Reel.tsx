@@ -2,7 +2,7 @@
 // File: src/components/Reel.tsx
 // (One slot reel. We render 3 of these.)
 // ─────────────────────────────────────────────────────────────────────────────
-import React, { useEffect, useRef } from "react";
+import { useEffect, useRef } from "react";
 
 export default function Reel({
   items,
