@@ -4,7 +4,7 @@
 import from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App";
-import "./index";
+import "./index.css";
 
 createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
