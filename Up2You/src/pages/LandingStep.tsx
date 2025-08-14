@@ -1,7 +1,6 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // File: src/pages/LandingStep.tsx
 // ─────────────────────────────────────────────────────────────────────────────
-import React from "react";
 export default function LandingStep({ onNext }: { onNext: () => void }){
   return (
     <div className="stack center">
