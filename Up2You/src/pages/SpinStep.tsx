@@ -1,7 +1,6 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // File: src/pages/SpinStep.tsx
 // ─────────────────────────────────────────────────────────────────────────────
-import React from "react";
 import type { Mood } from "../types";
 import type { Mode } from "../utils/types-extra";
 import Reel from "../components/Reel";
