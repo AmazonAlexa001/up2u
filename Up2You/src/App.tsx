@@ -1,7 +1,7 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // File: src/App.tsx
 // ─────────────────────────────────────────────────────────────────────────────
-import React, { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import StepDots from "./components/StepDots";
 import LandingStep from "./pages/LandingStep";
 import ModeStep from "./pages/ModeStep";
